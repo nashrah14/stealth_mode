@@ -13,13 +13,13 @@ This project demonstrates real-time player detection and re-identification in a 
 
 ## 📁 File Structure
 📁 Player-ReID-Assignment/
-├── main.py                      # ✅ Main script (YOLO + Deep SORT)
-├── requirements.txt             # ✅ Required Python packages
-├── README.md                    # ✅ How to run + download links
-├── report.md                    # ✅ Brief report of your methodology
-├── .gitignore                   # ✅ Prevents large/unwanted files
-├── 15sec_input_720p.mp4         # ✅ Optional — only if < 100 MB
-└── output_reid.mp4              # ✅ Optional — only if < 100 MB
+├── main.py                      
+├── requirements.txt             
+├── README.md                    
+├── report.md                    
+├── .gitignore                   
+├── 15sec_input_720p.mp4         
+└── output_reid.mp4              
 
 
 ---
