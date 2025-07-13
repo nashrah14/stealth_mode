@@ -31,6 +31,13 @@ pip install -r requirements.txt
 
 ---
 
+## ⚠️ Download the Model
+
+Due to GitHub file size limits, the model is not included in this repo.
+
+📦 [Download best.pt](https://drive.google.com/file/d/1-5fOSHOSB9UXyP_enOoZNAMScrePVcMD/view)
+
+---
 ## ▶️ Run the Code
 Ensure the model file (e.g., `best.pt`) and input video (`15sec_input_720p.mp4`) are in the same directory as `main.py`.
 
