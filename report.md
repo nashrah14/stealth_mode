@@ -47,6 +47,13 @@ To build a real-time system that can:
 - Deep SORT provides robust re-identification without heavy embedding models.
 
 ---
+## ⚠️ Download the Model
+
+Due to GitHub file size limits, the model is not included in this repo.
+
+📦 [Download best.pt](https://drive.google.com/file/d/1-5fOSHOSB9UXyP_enOoZNAMScrePVcMD/view)
+
+---
 
 ## ❗ Challenges
 - Couldn’t download model initially — used YOLOv8 placeholder.
@@ -54,6 +61,7 @@ To build a real-time system that can:
 - Limited video duration made it tricky to validate long-term ID consistency.
 
 ---
+
 
 ## ✅ Outcome
 - Successfully tracked players across 15-second footage.
