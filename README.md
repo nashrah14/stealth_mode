@@ -12,7 +12,7 @@ This project demonstrates real-time player detection and re-identification in a 
 ---
 
 ## 📁 File Structure
-📁 Player-ReID-Assignment/
+📁 Stealth_mode/
 
 ├── main.py                      
 ├── requirements.txt             
