@@ -1,4 +1,4 @@
-#  Player Re-Identification - Liat.ai Internship Task
+#  Player Re-Identification
 
 This project demonstrates real-time player detection and re-identification in a single 15-second football match video. Each player is consistently assigned a unique ID, even if they leave the frame and re-enter later.
 
