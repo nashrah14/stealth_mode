@@ -13,6 +13,7 @@ This project demonstrates real-time player detection and re-identification in a 
 
 ## 📁 File Structure
 📁 Player-ReID-Assignment/
+
 ├── main.py                      
 ├── requirements.txt             
 ├── README.md                    
